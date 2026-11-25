@@ -1,0 +1,26 @@
+{
+  "up": "up",
+  "down": "down",
+  "left": "left",
+  "right": "right",
+
+  "cross": "enter",
+  "triangle": "esc",
+  "square": "left",
+  "circle": "space",
+
+  "l1": "enter",
+  "r1": "esc",
+
+  "start": "ime",
+  "select": "journal",
+
+  "stick_n": "kp8",
+  "stick_ne": "kp9",
+  "stick_e": "kp6",
+  "stick_se": "kp3",
+  "stick_s": "kp2",
+  "stick_sw": "kp1",
+  "stick_w": "kp4",
+  "stick_nw": "kp7"
+}
