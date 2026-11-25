@@ -1,0 +1,17 @@
+{
+  "buttons": [
+    {"label": "Q", "hint": "Quick",       "key": "q", "side": "left",  "row": 1},
+    {"label": "V", "hint": "View",        "key": "v", "side": "left",  "row": 2},
+    {"label": "B", "hint": "Buy/Bandage", "key": "b", "side": "left",  "row": 3},
+    {"label": "C", "hint": "Cast",        "key": "c", "side": "left",  "row": 4},
+    {"label": "F", "hint": "Fix",         "key": "f", "side": "left",  "row": 5},
+    {"label": "U", "hint": "Use",         "key": "u", "side": "left",  "row": 6},
+
+    {"label": "A", "hint": "Aim/Area",    "key": "a", "side": "right", "row": 1},
+    {"label": "I", "hint": "Items",       "key": "i", "side": "right", "row": 2},
+    {"label": "T", "hint": "Target/Take", "key": "t", "side": "right", "row": 3},
+    {"label": "E", "hint": "End/Encamp",  "key": "e", "side": "right", "row": 4},
+    {"label": "S", "hint": "Save/Search", "key": "s", "side": "right", "row": 5},
+    {"label": "M", "hint": "Move/Magic",  "key": "m", "side": "right", "row": 6}
+  ]
+}

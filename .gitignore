@@ -1,0 +1,10 @@
+games/
+build/
+.DS_Store
+
+# Game manuals and other SSI material never go in git
+*.pdf
+
+# Local notes
+CLAUDE.md
+KICKOFF.md
