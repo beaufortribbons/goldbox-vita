@@ -1,13 +1,11 @@
 # Gold Box Vita
 
 Standalone PS Vita builds of SSI's Gold Box games. Each game gets its own
-LiveArea bubble and boots straight into the game: no DOS prompt, no
-RetroArch, no launcher. Built on DOSBox, with touch buttons in the side
+LiveArea bubble and boots straight into the game. Built on DOSBox, with touch buttons in the side
 strips beside the 4:3 picture.
 
 **Playable now:** Gateway to the Savage Frontier (DOS, GOG version).
-**Planned:** Treasures of the Savage Frontier, then the Pool of Radiance and
-Krynn series.
+**Planned:** Treasures of the Savage Frontier. If I find the time I'll do the rest of them, but for now just converting them as I play them. 
 
 <p align="center">
 <img src="screenshots/gateway-title.jpg" width="49%" alt="Title screen">
