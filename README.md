@@ -5,7 +5,7 @@ LiveArea bubble and boots straight into the game. Built on DOSBox, with touch bu
 strips beside the 4:3 picture.
 
 **Playable now:** Gateway to the Savage Frontier (DOS, GOG version).
-**Planned:** Treasures of the Savage Frontier. If I find the time I'll do the rest of them, but for now just converting them as I play them. 
+**Planned:** Treasures of the Savage Frontier. If I find the time I'll do the rest of them, but for now just converting them as I play them. Please feel free to convert the rest...
 
 <p align="center">
 <img src="screenshots/gateway-title.jpg" width="49%" alt="Title screen">
